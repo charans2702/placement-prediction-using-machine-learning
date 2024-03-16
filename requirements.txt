@@ -1,0 +1,13 @@
+pandas
+mlflow==2.2.2
+notebook
+sklearn
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+pickle
+types.pyYAML
+Flask
+Flask-corss
